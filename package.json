@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mako00027.github.io/mikisims",
+  "homepage": "https://mako00027.github.io/sea",
 
   "scripts": {
     "dev": "vite",
